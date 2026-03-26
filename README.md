@@ -69,4 +69,5 @@ Use filters to explore different insights
 
 Analyze trends and business performance
 
-Screenshot of the Dashboard:
+Screenshots of the Dashboard:https://github.com/khushisinghal08/Pizza-Sales-Analysis-Business-Insights-Dashboard/blob/main/overview%20page.png
+
