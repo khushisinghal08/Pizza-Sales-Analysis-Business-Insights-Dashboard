@@ -24,6 +24,8 @@ Python (Pandas, Matplotlib, Seaborn)
 Power BI (Dashboard & Visualization)
 
 Dashboard Features
+https://github.com/khushisinghal08/Pizza-Sales-Analysis-Business-Insights-Dashboard/blob/main/pizza_sales.pbix
+
 
 1. Overview Page
 
