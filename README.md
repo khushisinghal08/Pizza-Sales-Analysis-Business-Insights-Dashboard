@@ -73,4 +73,11 @@ Screenshots of the Dashboard:https://github.com/khushisinghal08/Pizza-Sales-Anal
 https://github.com/khushisinghal08/Pizza-Sales-Analysis-Business-Insights-Dashboard/blob/main/Best%20and%20Worst%20pizzas.png
 https://github.com/khushisinghal08/Pizza-Sales-Analysis-Business-Insights-Dashboard/blob/main/Insights.png
 
+Conclusion
+
+This project highlights how data analytics can be used to identify patterns, improve decision-making, and optimize business performance.
+
+Connect With Me
+Linkedin : [Linkedin](www.linkedin.com/in/khushi-singhal-)
+
 
