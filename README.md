@@ -10,39 +10,63 @@ Source: Pizza Sales Dataset
 Data includes:
 
 Order details (date, time, quantity)
+
 Pizza categories and sizes
+
 Pricing and revenue
+
 Tools & Technologies
+
 SQL (Data Extraction & Analysis)
+
 Python (Pandas, Matplotlib, Seaborn)
+
 Power BI (Dashboard & Visualization)
 
 Dashboard Features
+
 1. Overview Page
+
 Total Revenue, Total Orders
 Average Order Value
 Daily & Monthly Sales Trends
 Sales by Category and Size
+
 2. Product Performance Page
+
 Top-selling pizzas
 Lowest-performing pizzas
 Revenue and quantity analysis
 Category-wise performance
 
 Key Insights
+
 Business is volume-driven with low average order value
+
 Sales are higher on weekends, indicating demand spikes
+
 Customers prefer classic and large pizzas
+
 Few products contribute to most of the revenue
+
 Some items consistently underperform
 
 Recommendations
+
 Introduce combo deals to increase order value
+
 Run weekday promotions to boost low sales periods
+
 Focus marketing on top-performing products
+
 Optimize or remove low-performing items
 
 How to Use
+
 Open the dashboard file (Power BI)
+
 Use filters to explore different insights
+
 Analyze trends and business performance
+
+Screenshot of the Dashboard:
