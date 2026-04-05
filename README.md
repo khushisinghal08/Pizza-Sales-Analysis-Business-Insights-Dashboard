@@ -1,85 +1,74 @@
-# Pizza-Sales-Analysis-Business-Insights-Dashboard
-Pizza Sales Analytics (Power BI Dashboard)
-Project Overview
+🍕 Pizza Sales Analytics Dashboard (Power BI)
+📌 Project Overview
 
-This project focuses on analyzing pizza sales data to uncover key insights related to revenue, customer behavior, and product performance. The goal is to transform raw data into meaningful insights that support data-driven business decisions.
+This project focuses on analyzing pizza sales data to uncover meaningful insights around revenue trends, customer behavior, and product performance.
 
-The analysis covers sales trends, order patterns, and product-level performance using interactive dashboards.
-Source: Pizza Sales Dataset
+The goal was simple — turn raw sales data into actionable business insights that can help improve decision-making and overall business performance.
 
-Data includes:
+Using a combination of SQL, Python, and Power BI, I explored patterns in orders, identified top and low-performing products, and built interactive dashboards to present the findings in a clear and impactful way.
+
+🎯 Business Objective
+Understand sales patterns and customer ordering behavior
+Identify high-performing and underperforming products
+Analyze revenue distribution across categories and sizes
+Provide recommendations to improve sales and profitability
+📂 Dataset
+
+The dataset contains:
 
 Order details (date, time, quantity)
-
 Pizza categories and sizes
+Pricing and revenue data
 
-Pricing and revenue
+🛠️ Tools & Technologies
 
-Tools & Technologies
+SQL → Data extraction and querying
+Python (Pandas, Matplotlib, Seaborn) → Data cleaning & exploratory analysis
+Power BI → Dashboard creation and visualization
 
-SQL (Data Extraction & Analysis)
+📊 Dashboard
 
-Python (Pandas, Matplotlib, Seaborn)
-
-Power BI (Dashboard & Visualization)
-
-Dashboard Features
+🔗 View Dashboard File:
 https://github.com/khushisinghal08/Pizza-Sales-Analysis-Business-Insights-Dashboard/blob/main/pizza_sales.pbix
 
-
-1. Overview Page
-
-Total Revenue, Total Orders
+🧭 Dashboard Pages
+1️⃣ Overview Page
+Total Revenue
+Total Orders
 Average Order Value
 Daily & Monthly Sales Trends
 Sales by Category and Size
-
-2. Product Performance Page
-
+2️⃣ Product Performance Page
 Top-selling pizzas
 Lowest-performing pizzas
-Revenue and quantity analysis
+Revenue vs Quantity analysis
 Category-wise performance
+📸 Dashboard Preview
 
-Key Insights
+https://github.com/khushisinghal08/Pizza-Sales-Analysis-Business-Insights-Dashboard/blob/main/overview%20page.png
 
-Business is volume-driven with low average order value
-
-Sales are higher on weekends, indicating demand spikes
-
-Customers prefer classic and large pizzas
-
-Few products contribute to most of the revenue
-
-Some items consistently underperform
-
-Recommendations
-
-Introduce combo deals to increase order value
-
-Run weekday promotions to boost low sales periods
-
-Focus marketing on top-performing products
-
-Optimize or remove low-performing items
-
-How to Use
-
-Open the dashboard file (Power BI)
-
-Use filters to explore different insights
-
-Analyze trends and business performance
-
-Screenshots of the Dashboard:https://github.com/khushisinghal08/Pizza-Sales-Analysis-Business-Insights-Dashboard/blob/main/overview%20page.png
 https://github.com/khushisinghal08/Pizza-Sales-Analysis-Business-Insights-Dashboard/blob/main/Best%20and%20Worst%20pizzas.png
+
 https://github.com/khushisinghal08/Pizza-Sales-Analysis-Business-Insights-Dashboard/blob/main/Insights.png
 
-Conclusion
+🔍 Key Insights
+Business is volume-driven, with relatively low average order value
+Sales peak during weekends, showing clear demand spikes
+Customers mostly prefer classic and large pizzas
+A small number of products generate majority of revenue (Pareto effect)
+Some pizzas consistently perform poorly and impact overall efficiency
 
-This project highlights how data analytics can be used to identify patterns, improve decision-making, and optimize business performance.
+💡 Recommendations
 
-Connect With Me
-Linkedin : [Linkedin](www.linkedin.com/in/khushi-singhal-)
+Introduce combo deals to increase average order value
+Run weekday promotions to improve low-sales periods
+Focus marketing efforts on top-performing products
+Optimize, reposition, or remove low-performing items
 
+📌 Conclusion
 
+This project demonstrates how data analytics can be used to:
+
+Identify hidden patterns in sales data
+Support data-driven decision making
+Improve product strategy and business performance
