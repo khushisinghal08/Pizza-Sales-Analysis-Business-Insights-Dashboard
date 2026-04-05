@@ -72,3 +72,11 @@ This project demonstrates how data analytics can be used to:
 Identify hidden patterns in sales data
 Support data-driven decision making
 Improve product strategy and business performance
+
+🤝 Connect With Me
+
+I’m always open to learning, collaboration, and opportunities in Data Analytics.
+
+Email: khushisinghal694@gmail.com 
+
+linkedin: www.linkedin.com/in/khushi-singhal-
